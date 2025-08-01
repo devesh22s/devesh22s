@@ -35,8 +35,13 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=devesh22s&theme=github-dark-blue&hide_border=true" height="180"/>
 </p>
 
+### 📚 Languages I Use Most
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devesh22s&layout=compact&theme=github_dark&hide_border=true" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
 ---
@@ -45,6 +50,6 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/devesh-kumar-26b10a286/">
-    <img src="https://img.shields.io/badge/-Connect on LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="[https://img.shields.io/badge/-Connect on LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white](https://github-readme-activity-graph.vercel.app/graph?username=devesh22s&theme=github-compact)" />
   </a>
 </p>
